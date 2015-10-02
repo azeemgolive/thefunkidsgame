@@ -1,0 +1,76 @@
+#tid_button {
+    margin-top: -27px;
+}
+
+#ti_button {
+    margin-top: -13px;
+}
+
+#td_button {
+    margin-top: -19px;
+}
+
+#t_button {
+    margin-top: -5px;
+}
+
+#nt_button {
+    margin-top: -5px;
+}
+
+td.picker_input_cell {
+    width: 25em;    
+}
+
+td.picker_img_cell {
+    width: 5em;
+}
+
+td.color_picker {
+
+}
+
+#force_all_btn_types_container {
+    display: none;
+}
+
+#acp_all_paging_type_on_off {
+    display: block;
+}
+
+.test {
+    display: inline;
+    text-align: center;
+    color: #ff0000;
+    font-size: 15px;
+}
+
+.acp_title_wrap {
+
+}
+
+.acp_desc_wrap {
+
+}
+
+.acp_image_wrap {
+
+}
+
+label.shortcode_title,
+label.shortcode_desc {
+    width: 100px;
+}
+
+textArea.shortcode_desc {
+    height: 60px;
+}
+
+div.error_msg {
+    border: 1px solid #ff0000;
+    font-size: 14px;
+    display: none;
+}
+
+.shortcode_dialog {
+}

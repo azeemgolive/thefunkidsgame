@@ -1,0 +1,284 @@
+#baol_spinner{
+	float:right;
+	height:30px;
+	width:30px;
+	margin:5px 15px 0 0;
+	background:url(spinner.gif) no-repeat center center;
+	overflow:hidden;
+	text-indent:-99999px;
+}
+
+div.layout-layout{
+	float:left;
+	width:50px;
+	height:70px;
+	padding:5px;
+	border:1px solid #ccc;
+	margin-right:10px;
+}
+
+div.layout-layout a{
+	width:50px;
+	height:70px;
+	overflow:hidden;
+	display:block;
+}
+
+#poststuff div.layout-layout p
+{
+	text-align:center;
+	margin:5px 0 0;
+}
+
+div.selected{
+	background-color:#f00;
+}
+
+div.current{
+	background-color:#ff0;
+}
+
+.clear{
+	clear: both;
+}
+
+.hide{
+	display:none;
+}
+
+.float-break{
+	height:1%;
+}
+
+.float-break:after
+{
+    content: "-";
+    height: 0;
+    font-size: 0;
+    visibility: hidden;
+    display: block; 
+    clear: both; 
+}
+
+.message{
+	clear:both;
+	margin:10px 0;
+	background-color:#FFFFE0;
+	border-color:#E6DB55;
+	-moz-border-radius-bottomleft:3px;
+	-moz-border-radius-bottomright:3px;
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+	border-style:solid;
+	border-width:1px;
+	padding:5px;
+}
+
+#baol_layout-buttons{
+	margin:10px 0;
+}
+
+#baol_layout-buttons a{
+	margin:0 10px 0 0;
+}
+
+#baol_layout-activate-container{
+	margin:20px 0;
+	clear:both;
+}
+
+#widget-list{
+	margin-bottom:10px;
+}
+
+#widget-list .widget {
+	border:0 none;
+	float:left;
+	margin:0 6px 5px;
+	overflow:hidden;
+	width:100px;
+}
+
+#widget-list .widget-top {
+	-moz-border-radius-bottomleft:6px;
+	-moz-border-radius-bottomright:6px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	border-style:solid;
+	border-width:1px;
+}
+
+#widget-list  .widget-title h4 {
+	line-height:1.3;
+	margin:0;
+	overflow:hidden;
+	white-space:nowrap;
+	font-size:0.9em;
+}
+
+#widget-list .widget, 
+#widget-list .widget-top {
+border-color:#DFDFDF;
+}
+
+#widget-list .widget-inside, 
+#widget-list .widget-description {
+	display:none;
+}
+
+#widget-list .widget-top .widget-title {
+	padding:5px;
+}
+
+.zone-name .widget {
+	margin:0 auto 20px;
+	overflow:hidden;
+	background-color:#FFFFFF;
+	border-color:#DFDFDF;
+	-moz-border-radius-bottomleft:6px;
+	-moz-border-radius-bottomright:6px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	border-style:solid;
+	border-width:1px;
+	line-height:1;
+	margin-bottom:20px;
+}
+
+.zone-name .widget .widget-top{
+	color:#000000;
+	background:#DFDFDF url(../../../../wp-admin/images/gray-grad.png) repeat-x scroll left top;
+	text-shadow:0 1px 0 #FFFFFF;
+	-moz-border-radius-bottomleft:0;
+	-moz-border-radius-bottomright:0;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	cursor:move;
+	font-size:12px;
+	font-weight:bold;
+	height:26px;
+	overflow:hidden;
+}
+
+.zone-name .widget-top .widget-title-action {
+	float:right;
+}
+
+.zone-name .widget-top a.widget-action {
+	background:transparent url(../../../../wp-admin/images/menu-bits.gif) no-repeat scroll 0 -110px;
+}
+
+.zone-name a.widget-action {
+	display:block;
+	height:26px;
+	width:24px;
+}
+
+.widget-control-actions a,
+a.widget-control-edit {
+	text-decoration:none;
+}
+
+.widget-control-edit {
+	display:block;
+	font-size:11px;
+	font-weight:normal;
+	line-height:26px;
+	padding:0 8px 0 0;
+}
+
+.zone-name .widget-top .widget-title {
+	padding:5px 9px;
+}
+
+.zone-name .widget-title h4 {
+	line-height:1.3;
+	margin:0;
+	overflow:hidden;
+	white-space:nowrap;
+}
+
+.widget .widget-inside, .widget .widget-description {
+	font-size:11px;
+	line-height:16px;
+	padding:12px 12px 10px;
+	display:none;
+}
+
+.widget .widget-description{display:none;}
+
+.widget .widget-inside p {
+	margin:0 0 1em;
+	padding:0;
+}
+
+.widgets-zone-sortables div.widgets-sortables {
+	background-color:#fff;
+	border-color:none;
+}
+
+.widget-placeholder {
+	border-width: 1px;
+	border-style: dashed;
+	margin: 0 auto 20px;
+	height: 26px;
+}
+
+
+/*
+* jQuery UI CSS Framework
+* Copyright (c) 2009 AUTHORS.txt (http://jqueryui.com/about)
+* Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses.
+*/
+
+/* Layout helpers
+----------------------------------*/
+.ui-helper-hidden { display: none; }
+.ui-helper-hidden-accessible { position: absolute; left: -99999999px; }
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+.ui-helper-clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.ui-helper-clearfix { display: inline-block; }
+/* required comment for clearfix to work in Opera \*/
+* html .ui-helper-clearfix { height:1%; }
+.ui-helper-clearfix { display:block; }
+/* end clearfix */
+.ui-helper-zfix { width: 100%; height: 100%; top: 0; left: 0; position: absolute; opacity: 0; filter:Alpha(Opacity=0); }
+
+/* Tabs ----------------------------------*/
+.ui-tabs { padding: .2em; zoom: 1; }
+.ui-tabs .ui-tabs-nav { list-style: none; position: relative; padding: .2em .2em 0; }
+.ui-tabs .ui-tabs-nav li { position: relative; float: left; border-bottom-width: 0 !important; margin: 0 .2em -1px 0; padding: 0; }
+.ui-tabs .ui-tabs-nav li a { float: left; text-decoration: none; padding: .5em 1em; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { padding-bottom: 1px; border-bottom-width: 0; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { padding: 1em 1.4em; display: block; border-width: 0; background: none; }
+.ui-tabs .ui-tabs-hide { display: none !important; }
+
+/* Component containers
+----------------------------------*/
+.ui-widget { font-family: Verdana,Arial,sans-serif; font-size: 1.1em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Verdana,Arial,sans-serif; font-size: 1em; }
+.ui-widget-content { border: 1px solid #aaaaaa; background: #ffffff; color: #222222; }
+.ui-widget-content a {  }
+.ui-widget-header { border: 1px solid #aaaaaa; background: #cccccc; color: #222222; font-weight: bold; }
+.ui-widget-header a {  }
+
+/* Corner radius */
+.ui-corner-tl { -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; }
+.ui-corner-tr { -moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; }
+.ui-corner-bl { -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; }
+.ui-corner-br { -moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; }
+.ui-corner-top { -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; }
+.ui-corner-bottom { -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; }
+.ui-corner-right {  -moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; }
+.ui-corner-left { -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; }
+.ui-corner-all { -moz-border-radius: 4px; -webkit-border-radius: 4px; }
+
+/* Interaction states ----------------------------------*/
+.ui-state-default, .ui-widget-content .ui-state-default { border: 1px solid #d3d3d3; background: #e6e6e6; font-weight: normal; color: #555555; outline: none; }
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #555555; text-decoration: none; outline: none; }
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus { border: 1px solid #999999; background: #dadada; font-weight: normal; color: #212121; outline: none; }
+.ui-state-hover a, .ui-state-hover a:hover { color: #212121; text-decoration: none; outline: none; }
+.ui-state-active, .ui-widget-content .ui-state-active { border: 1px solid #aaaaaa; background: #ffffff; font-weight: normal; color: #212121; outline: none; }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: #212121; outline: none; text-decoration: none; }

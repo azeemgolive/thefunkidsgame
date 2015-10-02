@@ -1,0 +1,133 @@
+# Copyright (C) 2012 TLA Media
+# This file is distributed under the same license as the Simple Paginated Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Paginated Posts\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-paginated-posts\n"
+"POT-Creation-Date: 2012-11-06 09:20:44+00:00\n"
+"PO-Revision-Date: 2012-12-20 11:27+0100\n"
+"Last-Translator: Torben Lundsgaard <tl@tlamedia.dk>\n"
+"Language-Team: TLA Media\n"
+"Language: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/class-simple-paginated-posts.php:52 includes/spp-template.php:9
+msgid "Pages:"
+msgstr "Sider:"
+
+#: includes/class-simple-paginated-posts.php:54
+msgid "Next page"
+msgstr "Næste side"
+
+#: includes/class-simple-paginated-posts.php:55
+msgid "Previous page"
+msgstr "Forrige side"
+
+#: includes/class-simple-paginated-posts.php:140
+msgid "Continued from: "
+msgstr "Fortsat fra: "
+
+#: includes/class-simple-paginated-posts.php:146
+msgid "Continued ..."
+msgstr "Fortsættes ..."
+
+#: includes/class-simple-paginated-posts.php:197 includes/spp-template.php:10
+msgid "Table of contents:"
+msgstr "Indholdsfortegnelse:"
+
+#: includes/class-spp-admin.php:54
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/class-spp-admin.php:55
+msgid "Implementation in theme:"
+msgstr "Implementering i tema"
+
+#: includes/class-spp-admin.php:64 includes/class-spp-admin.php:87
+msgid "Simple Paginated Posts Settings"
+msgstr "Simple Paginated Posts indstillinger"
+
+#: includes/class-spp-admin.php:64
+msgid "Paginated Posts"
+msgstr "Opdelte indlæg"
+
+#: includes/class-spp-admin.php:93
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: includes/class-spp-admin.php:113
+msgid ""
+"Use automatic implementation or manually insert the SPP functions in your "
+"theme?"
+msgstr ""
+"Brug automatisk implementering eller indsæt manuelt SPP funktionerne i dit "
+"teme"
+
+#: includes/class-spp-admin.php:150
+msgid "Instructions"
+msgstr "Instruktioner"
+
+#: includes/class-tla-test-requirements.php:38
+msgid ""
+"The &quot;Simple Paginated Posts&quot; plugin encountered errors! It cannot "
+"load!"
+msgstr ""
+"&quot;Simple Paginated Posts&quot; stødte på problemer, og kan ikke loades!"
+
+#: includes/page-sidebar.php:10
+msgid "Support"
+msgstr "Support"
+
+#: includes/page-sidebar.php:13
+msgid ""
+"If you are having problems with this plugin, please talk about them in the"
+msgstr ""
+"Hvis du har problemer med dette plugin kan du finde hjælp i det officielle "
+
+#: includes/page-sidebar.php:13
+msgid "Support forum"
+msgstr "Support forum"
+
+#: includes/page-sidebar.php:14
+msgid "You can also find documentation and examples of implementations on the"
+msgstr "Du kan også finde dokumentation og eksempler på implementeringer på"
+
+#: includes/page-sidebar.php:14
+msgid "plugin homepage"
+msgstr "plugin hjemmesiden"
+
+#: includes/page-sidebar.php:19
+msgid "About this Plugin"
+msgstr "Om dette plugin"
+
+#: includes/page-sidebar.php:29
+msgid "This plugin is sponsered by"
+msgstr "Dette plugin er sponseret af"
+
+#: includes/page-sidebar.php:37
+msgid "by"
+msgstr "af"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Paginated Posts"
+msgstr "Simple Paginated Posts"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpplugins.tlamedia.dk/simple-paginated-posts/"
+msgstr "http://wpplugins.tlamedia.dk/simple-paginated-posts/"
+
+#. Description of the plugin/theme
+msgid "Generate table of contents for paginated posts"
+msgstr "Generer indholdsfortegnelse for opdelte indlæg"
+
+#. Author of the plugin/theme
+msgid "TLA Media"
+msgstr "TLA Media"
+
+#. Author URI of the plugin/theme
+msgid "http://www.tlamedia.dk/"
+msgstr "http://www.tlamedia.dk/"

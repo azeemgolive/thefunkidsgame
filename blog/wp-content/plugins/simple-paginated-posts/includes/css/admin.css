@@ -1,0 +1,46 @@
+/*
+Simple Paginated Posts - Admin
+*/
+#spp-main {
+	width: 65%;
+	margin-right: 4%;
+}
+#spp-options,
+#spp-options #submit {
+	margin-top: 30px;
+}
+#spp-options h3 {
+	font-size: 1.17em;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin: 1em 0px;
+	padding: 0;
+}
+#spp-instructions {
+	margin-top: 90px;
+}
+#spp-sidebar {
+	width: 20%;
+}
+#spp-sidebar .stuffbox {
+	min-width: 255px;
+}
+#spp-sidebar ul {
+	margin:1em 0 1em 10px;
+}
+#spp-sidebar a {
+	text-decoration:none;
+}
+#spp-sidebar .inside {
+	background: #fff;
+	border-left: 0;
+	border-right: 0;
+}
+#spp-sidebar #credit {
+	text-align:center;
+	font-size:10px;
+	color:#888;
+	line-height: 3em;
+	margin:3em 0;
+	min-width: 255px;
+}

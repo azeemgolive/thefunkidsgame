@@ -1,0 +1,33 @@
+#satollo-header {
+    text-align: left;
+    xbackground-color: #f4f4f4;
+    xpadding: 5px;
+    xpadding-left: 15px;
+    xborder-radius: 3px;
+    text-transform: uppercase;
+}
+
+#satollo-header a {
+    margin-right: 15px;
+}
+
+p input, p textarea, p select {
+    font-size: 11px;
+}
+p input {
+    padding: 1px;
+}
+#wpcontent select {
+    font-size: 11px;
+    padding: 0px;
+    margin: 0;
+    height: auto;
+    line-height: 12px;
+}
+h4 {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.submit {
+    padding: 0;
+}
