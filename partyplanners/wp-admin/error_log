@@ -1,0 +1,3 @@
+[16-Jul-2015 06:43:29 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/tfkids/public_html/partyplanners/wp-includes/media.php on line 2108
+[16-Jul-2015 06:43:29 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/tfkids/public_html/partyplanners/wp-includes/class-wp-image-editor-gd.php on line 284
+[16-Jul-2015 06:43:29 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/tfkids/public_html/partyplanners/wp-includes/class-wp-image-editor-gd.php on line 286

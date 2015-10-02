@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ananke Theme v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-15 00:04+0700\n"
+"Last-Translator: admin <vuonghg87@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ananke
+#: archive.php:14
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ ananke
+#: archive.php:17
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ ananke
+#: archive.php:17
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ ananke
+#: archive.php:20
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ ananke
+#: archive.php:20
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ ananke
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+# @ ananke
+#: archive.php:53 archive.php:78 author.php:36 author.php:61 category.php:32
+#: category.php:57 index.php:31 page-templates/blog-with-sidebar.php:40
+#: page-templates/template-blog.php:42 page-templates/template-blog.php:74
+#: search.php:38 search.php:63 tag.php:33 tag.php:58
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ ananke
+#: author.php:15
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ ananke
+#: category.php:12
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+# @ ananke
+#: comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ ananke
+#: comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ ananke
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+# @ ananke
+#: comments.php:41
+msgid "Name*"
+msgstr ""
+
+# @ ananke
+#: comments.php:42
+msgid "Email*"
+msgstr ""
+
+# @ ananke
+#: comments.php:44
+msgid "Comment*"
+msgstr ""
+
+# @ ananke
+#: comments.php:45
+msgid "Submit Comment"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:6 framework/post_type.php:7
+#: framework/post_type.php:17 vc_shortcode.php:794
+msgid "Portfolio"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:8 framework/post_type.php:9
+msgid "Add New Portfolio"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:10
+msgid "Edit Portfolio"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:11
+msgid "New Portfolio"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:12
+msgid "View Portfolio"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:13
+msgid "Search Portfolios"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:14
+msgid "No Portfolios found"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:15
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:16
+msgid "Parent Portfolio:"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:53 framework/post_type.php:54
+#: framework/post_type.php:63
+msgid "Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:55
+msgid "Search Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:56
+msgid "All Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:57
+msgid "Parent Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:58
+msgid "Parent Categories:"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:59
+msgid "Edit Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:60
+msgid "Update Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:61
+msgid "Add New Categories"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:62
+msgid "New Categories Name"
+msgstr ""
+
+# @ ananke
+# @ redux-framework-demo
+#: framework/post_type.php:88 framework/post_type.php:89
+#: framework/post_type.php:98 ReduxFramework/sample/sample-config.php:198
+msgid "Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:90
+msgid "Search Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:91
+msgid "All Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:92
+msgid "Parent Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:93
+msgid "Parent Tags:"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:94
+msgid "Edit Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:95
+msgid "Update Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:96
+msgid "Add New Tags"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:97
+msgid "New Tags Name"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:118 framework/post_type.php:119
+#: framework/post_type.php:129 vc_shortcode.php:635
+msgid "Slide Show"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:120 framework/post_type.php:121
+msgid "Add New Slide"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:122
+msgid "Edit Slide"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:123
+msgid "New Slide"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:124
+msgid "View Slide"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:125
+msgid "Search Slide"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:126
+msgid "No Slide found"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:127
+msgid "No Slide found in Trash"
+msgstr ""
+
+# @ ananke
+#: framework/post_type.php:128
+msgid "Parent Slide:"
+msgstr ""
+
+# @ ananke
+#: functions.php:46
+msgid "Menu Home <b>Only Use For Home Page</b>"
+msgstr ""
+
+# @ ananke
+#: functions.php:47
+msgid "Menu Pages <b>Only Use For All Other Pages</b>"
+msgstr ""
+
+# @ ananke
+#: functions.php:153
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ ananke
+#: functions.php:155
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ ananke
+#: functions.php:183
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ ananke
+#: functions.php:272
+msgid "Search the site..."
+msgstr ""
+
+# @ ananke
+#: functions.php:273
+msgid "Search"
+msgstr ""
+
+# @ ananke
+#: functions.php:289
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:327
+msgid "Extra id name"
+msgstr ""
+
+# @ wpb
+#: functions.php:330
+msgid "If you wish to style particular content element differently, then use this field to add a id name and then refer to it in your css file."
+msgstr ""
+
+# @ wpb
+#: functions.php:334
+msgid "Section Title"
+msgstr ""
+
+# @ wpb
+#: functions.php:337
+msgid "Title of Section, Leave a blank do not show frontend."
+msgstr ""
+
+# @ wpb
+#: functions.php:341
+msgid "Section Sub Title"
+msgstr ""
+
+# @ wpb
+#: functions.php:344
+msgid "Section Sub Title, Leave a blank do not show frontend."
+msgstr ""
+
+# @ wpb
+#: functions.php:348
+msgid "Overlay Pattern"
+msgstr ""
+
+# @ wpb
+# @ ananke
+#: functions.php:351 functions.php:361 vc_shortcode.php:750
+msgid "No"
+msgstr ""
+
+# @ wpb
+# @ ananke
+#: functions.php:352 functions.php:362 vc_shortcode.php:752
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:354 functions.php:379 functions.php:382
+msgid "Container Class"
+msgstr ""
+
+# @ wpb
+#: functions.php:358
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:364
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:371
+msgid "Column Title"
+msgstr ""
+
+# @ wpb
+#: functions.php:374
+msgid "Title of column"
+msgstr ""
+
+# @ wpb
+#: functions.php:387
+msgid "Container id"
+msgstr ""
+
+# @ wpb
+#: functions.php:390
+msgid "Container ID, Only use for content slider."
+msgstr ""
+
+# @ wpb
+#: functions.php:395
+msgid "Column Effect"
+msgstr ""
+
+# @ wpb
+#: functions.php:398
+msgid "Bottom Move"
+msgstr ""
+
+# @ wpb
+#: functions.php:399
+msgid "Top Move"
+msgstr ""
+
+# @ wpb
+#: functions.php:400
+msgid "None"
+msgstr ""
+
+# @ wpb
+#: functions.php:402
+msgid "Select Effect for column, Default: Move Bottom"
+msgstr ""
+
+# @ ananke
+#: page-templates/template-canvas-dark.php:16
+#: page-templates/template-canvas-page.php:16
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ ananke
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ ananke
+#: single.php:92
+msgid "Author:"
+msgstr ""
+
+# @ ananke
+#: tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+# @ ananke
+#: taxonomy-categories.php:10
+#, php-format
+msgid "Category Archives Portfolio: %s"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:8
+msgid "Slider Video"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:18
+msgid "Image Banner"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:21
+msgid "Upload image banner if not use video."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:30 vc_shortcode.php:377
+msgid "Add link video .mp4"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:39 vc_shortcode.php:386
+msgid "Add link video .webm"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:48 vc_shortcode.php:395
+msgid "Add link video .ogg"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:54 vc_shortcode.php:86 vc_shortcode.php:119
+msgid "Text Slider"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:57 vc_shortcode.php:89 vc_shortcode.php:122
+msgid "List text slider."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:67
+msgid "Moving Background Slider"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:77
+msgid "Image Moving"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:80
+msgid "Upload image moving."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:100
+msgid "Pattern Slider"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:110
+msgid "Image Pattern"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:113
+msgid "Upload image pattern."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:132
+msgid "Arrow Down"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:142
+msgid "Change Background Button"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:151
+msgid "URL (Link)"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:154
+msgid "Button link."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:163
+msgid "Buttons Slider"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:173
+msgid "Text Button 1"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:182
+msgid "Link Button 1"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:191
+msgid "Text Button 2"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:200
+msgid "Link Button 2"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:211
+msgid "Socials Slider"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:221 vc_shortcode.php:478
+msgid "Icon 1"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:224 vc_shortcode.php:242 vc_shortcode.php:260
+#: vc_shortcode.php:278 vc_shortcode.php:296 vc_shortcode.php:327
+#: vc_shortcode.php:481 vc_shortcode.php:499 vc_shortcode.php:517
+#: vc_shortcode.php:535
+msgid "Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:230
+msgid "Link 1"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:233 vc_shortcode.php:251 vc_shortcode.php:269
+#: vc_shortcode.php:287 vc_shortcode.php:305
+msgid "Link Social"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:239 vc_shortcode.php:496
+msgid "Icon 2"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:248
+msgid "Link 2"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:257 vc_shortcode.php:514
+msgid "Icon 3"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:266
+msgid "Link 3"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:275 vc_shortcode.php:532
+msgid "Icon 4"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:284
+msgid "Link 4"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:293
+msgid "Icon 5"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:302
+msgid "Link 5"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:314
+msgid "About Box"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:336
+msgid "Title Box."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:342 vc_shortcode.php:591
+msgid "Content"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:345 vc_shortcode.php:594
+msgid "Content Box"
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:355
+msgid "About Video or Image"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:365
+msgid "Image Left"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:368
+msgid "Upload image left if not use video."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:401
+msgid "Text Over Video"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:410
+msgid "Content 1"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:413 vc_shortcode.php:422 vc_shortcode.php:431
+msgid "Content About"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:419
+msgid "Content 2"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:428
+msgid "Content 3"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:441
+msgid "Our Team"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:451
+msgid "Name"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:454
+msgid "Member's Name"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:460
+msgid "Job"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:463
+msgid "Member's job."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:472
+msgid "Avarta of member, Recomended Size: 280 x 280"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:490 vc_shortcode.php:508 vc_shortcode.php:526
+#: vc_shortcode.php:544
+msgid "Url."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:554
+msgid "Call To Action"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:573
+msgid "Label Button Hover"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:582 vc_shortcode.php:737
+msgid "Link Button"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:603
+msgid "Our Facts"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:613
+msgid "Title Fact"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:616
+msgid "Title display in Our Facts box."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:622
+msgid "Number Fact"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:625
+msgid "Number display in Our Facts box."
+msgstr ""
+
+# @ default
+#: vc_shortcode.php:650
+msgid "Services Box"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:663
+msgid "Find here: <a target='_blank' href='http://html.vegatheme.com/svg-icons/'>http://html.vegatheme.com/svg-icons/</a>"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:669
+msgid "Title Service"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:672
+msgid "Title display in Services box."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:678
+msgid "Content Service"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:681
+msgid "About your Services."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:691
+msgid " Pricing Table"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:701
+msgid "Title Pricing"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:704
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:710
+msgid "Price Pricing"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:713
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:719
+msgid "Detail Pricing"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:722
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:728
+msgid "Label Button"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:731 vc_shortcode.php:776
+msgid "Text display in button."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:740
+msgid "Link in button."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:746
+msgid "Featured Pricing?"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:763
+msgid " Blog Post"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:773
+msgid "Label button"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:782
+msgid "link button"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:785
+msgid "Link button."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:804
+msgid "Text Show All Portfolio"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:807
+msgid "Text Filter Show All Portfolio."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:816
+msgid " Clients Logo"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:829
+msgid "Logo Client, Recomended Size: 156 x 113"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:835
+msgid "Link Out Client"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:838
+msgid "Link Out Client."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:848
+msgid "Contact Info"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:858
+msgid "Icon"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:861
+msgid "Icon before title info"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:870
+msgid "Title info"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:879
+msgid "Description info"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:889
+msgid " Maps"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:899
+msgid "Text Button Toggle Map"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:908
+msgid "Latitude"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:917
+msgid "Longitude"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:926
+msgid "Location Image"
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:929
+msgid "Upload Location Image."
+msgstr ""
+
+# @ ananke
+#: vc_shortcode.php:935
+msgid "Tootip Location Click"
+msgstr ""

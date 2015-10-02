@@ -1,0 +1,2 @@
+[16-Jul-2015 16:26:02 UTC] PHP Fatal error:  Call to a member function existHandlerMethod() on a non-object in /home/tfkids/public_html/partyplanners/wp-content/plugins/artless-shortcodes/application/shortcodes/google_maps_api.php on line 22
+[16-Jul-2015 16:29:16 UTC] PHP Fatal error:  Call to a member function existHandlerMethod() on a non-object in /home/tfkids/public_html/partyplanners/wp-content/plugins/artless-shortcodes/application/shortcodes/google_maps_api.php on line 22

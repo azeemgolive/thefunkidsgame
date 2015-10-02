@@ -1,0 +1,1 @@
+<div class="col-lg-3"><a href="kid-stories"><img src="images/right-page.jpg" alt="" class="img-responsive"/></a> </div>

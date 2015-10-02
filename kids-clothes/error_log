@@ -1,0 +1,63 @@
+[20-Aug-2015 04:40:00 CST6CDT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tfkids/public_html/kids-clothes/dbconnection.php on line 8
+[25-Aug-2015 09:57:54 CST6CDT] PHP Fatal error:  Call to undefined function getAllLatestProducts() in /home/tfkids/public_html/kids-clothes/latest-products.php on line 9
+[25-Aug-2015 10:02:43 CST6CDT] PHP Fatal error:  Call to undefined function getAllLatestProducts() in /home/tfkids/public_html/kids-clothes/latest-products.php on line 9
+[02-Sep-2015 03:13:32 CST6CDT] PHP Notice:  Undefined index: first_name in /home/tfkids/public_html/kids-clothes/login-user.php on line 10
+[02-Sep-2015 03:13:32 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/kids-clothes/login-user.php:10) in /home/tfkids/public_html/kids-clothes/login-user.php on line 18
+[02-Sep-2015 03:57:15 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 03:57:39 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 04:21:00 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 04:22:00 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 04:24:22 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 04:48:44 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:13:20 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:13:49 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:16:24 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:16:24 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:16:37 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:17:35 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:17:36 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:24:57 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 05:25:54 CST6CDT] PHP Notice:  Undefined index: loged_email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 28
+[02-Sep-2015 05:26:49 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 28
+[02-Sep-2015 06:00:46 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 06:01:18 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 06:01:39 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/signin-address.php on line 4
+[02-Sep-2015 06:05:03 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 39
+[02-Sep-2015 06:06:35 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 39
+[02-Sep-2015 06:07:19 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 39
+[02-Sep-2015 06:09:56 CST6CDT] PHP Notice:  Undefined index: first_name in /home/tfkids/public_html/kids-clothes/login-user.php on line 10
+[02-Sep-2015 06:09:56 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/kids-clothes/login-user.php:10) in /home/tfkids/public_html/kids-clothes/login-user.php on line 18
+[02-Sep-2015 06:10:21 CST6CDT] PHP Notice:  Undefined index: email in /home/tfkids/public_html/kids-clothes/login-user.php on line 4
+[02-Sep-2015 06:10:21 CST6CDT] PHP Notice:  Undefined index: password in /home/tfkids/public_html/kids-clothes/login-user.php on line 5
+[02-Sep-2015 06:10:21 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/kids-clothes/login-user.php:4) in /home/tfkids/public_html/kids-clothes/login-user.php on line 22
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: firstname in /home/tfkids/public_html/kids-clothes/signin-address.php on line 259
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: lastname in /home/tfkids/public_html/kids-clothes/signin-address.php on line 259
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: address in /home/tfkids/public_html/kids-clothes/signin-address.php on line 260
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: city in /home/tfkids/public_html/kids-clothes/signin-address.php on line 261
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: province in /home/tfkids/public_html/kids-clothes/signin-address.php on line 261
+[02-Sep-2015 06:19:31 CST6CDT] PHP Notice:  Undefined index: mobilenumber in /home/tfkids/public_html/kids-clothes/signin-address.php on line 262
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: firstname in /home/tfkids/public_html/kids-clothes/signin-address.php on line 259
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: lastname in /home/tfkids/public_html/kids-clothes/signin-address.php on line 259
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: address in /home/tfkids/public_html/kids-clothes/signin-address.php on line 260
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: city in /home/tfkids/public_html/kids-clothes/signin-address.php on line 261
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: province in /home/tfkids/public_html/kids-clothes/signin-address.php on line 261
+[02-Sep-2015 06:20:43 CST6CDT] PHP Notice:  Undefined index: mobilenumber in /home/tfkids/public_html/kids-clothes/signin-address.php on line 262
+[02-Sep-2015 06:21:46 CST6CDT] PHP Notice:  Undefined index: province in /home/tfkids/public_html/kids-clothes/signin-address.php on line 261
+[02-Sep-2015 07:33:45 CST6CDT] PHP Fatal error:  Call to undefined function getUserByEmail() in /home/tfkids/public_html/kids-clothes/shipping.php on line 17
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined index: cart_products in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 5
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined index: cart_products in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 18
+[02-Sep-2015 07:56:26 CST6CDT] PHP Warning:  Invalid argument supplied for foreach() in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 18
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: total in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 58
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: total in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 60
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: total in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 60
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 84
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 84
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 85
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 86
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 86
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: user in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 90
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: total in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 112
+[02-Sep-2015 07:56:26 CST6CDT] PHP Notice:  Undefined variable: total in /home/tfkids/public_html/kids-clothes/user-shipment-orders.php on line 128
+[04-Sep-2015 03:07:45 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 55
+[11-Sep-2015 01:18:50 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 55
+[15-Sep-2015 03:04:20 CST6CDT] PHP Notice:  Undefined variable: user_id in /home/tfkids/public_html/kids-clothes/signin-address.php on line 55
