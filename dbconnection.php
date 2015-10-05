@@ -1090,3 +1090,39 @@ function registerNewUser($name,$gender,$email,$location,$phone_number,$password,
     $query="insert into users(name,email,mobile_number,password,address,gender,createdAt,updatedAt,isActive,verificationcode,activation,resitration_type,user_name) values('$name','$email','$phone_number','$password','$location','$gender','$createdAt','$updatedAt','no','$verificationcode','$activation','$android_app','$user_name')";
     mysql_query($query) or die(mysql_error());
 }
+//----------------------kid game webservice--------------------------------------------------------
+function getAllGameWebservices()
+{
+    $query="select game_id,game_name,game_image from games order by game_id DESC";
+    $result=  mysql_query($query) or die(mysql_error());
+    return $result;
+}
+//-----------------------kid stories service---------------------------------------------------------
+function getAllStoriesWebservices()
+{
+    $query="select story_id,story_name,story_image from stories order by story_id DESC";
+    $result=  mysql_query($query) or die(mysql_error());
+    return $result;
+}
+
+//-------------------------kid fun learn stories-------------------------------------------
+function getAllFunLearnWebservices()
+{
+    $query="select fun_learn_id,fun_learn_name,fun_learn_image from fun_learn order by fun_learn_id DESC";
+    $result=  mysql_query($query) or die(mysql_error());
+    return $result;
+}
+//-------------------------------update android app user password--------------------------------
+function updateAppUserPassword($email,$password,$verificationcode)
+{
+  $updatedAt=  date("Y-m-d"); 
+  $query="update users set password='$password',verificationcode='$verificationcode',updatedAt='$updatedAt' where email='$email'"; 
+  mysql_query($query) or die(mysql_error());
+}
+//-------------------------------get app user by email--------------------------------------------------
+function getAppUserByEmail($email)
+{
+    $query="select user_id,name,email,mobile_number,password,totalkids,kidsage,user_interest,fav_past_time,address,verificationcode,user_name from users  where email='$email'";
+    $result=  mysql_query($query) or die(mysql_error());
+    return $result;
+}
